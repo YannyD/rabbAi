@@ -1,8 +1,11 @@
 [
     {"question": "How can a large animal be acquired?",
-    "answer": "A large animal is acquired by passing the reins, saddle, or a bit of hair to the new owner.",
+    "answer": "A large animal is acquired by being handed over to the new owner.",
     "source": "Kiddushin 1:4"},
     {"question": "How can a small animal be acquired?",
-    "answer": "A small animal is acquired by lifting it.",
-    "source": "Kiddushin 1:4"}
+    "answer": "A small animal is acquired by being lifted by the new owner.",
+    "source": "Kiddushin 1:4"},
+    {"question": "Which mitzvahs that depend on land are applicable both in Israel and outside?",
+    "answer": "The mitzvahs of Orla and Kilayim, as well as the prohibition from eating a new grain crop before the Omer offering has been made, are all applicable both inside and outside of Israel.",
+    "source": "Kiddushin 1:9"}
     ]
