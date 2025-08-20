@@ -1,0 +1,27 @@
+[
+    {"question": "How can a large animal be acquired?",
+    "answer": "A large animal is acquired by being handed over to the new owner.",
+    "source": "Kiddushin 1:4"},
+    {"question": "How can a small animal be acquired?",
+    "answer": "A small animal is acquired by being lifted by the new owner.",
+    "source": "Kiddushin 1:4"},
+    {"question": "Which mitzvahs that depend on land are applicable both in Israel and outside?",
+    "answer": "The mitzvahs of Orla and Kilayim, as well as the prohibition from eating a new grain crop before the Omer offering has been made, are all applicable both inside and outside of Israel.",
+    "source": "Kiddushin 1:9"},
+    {
+        "question": "Is there a permitted way for a mamzer to prevent his children from becoming mamzerim?",
+        "answer": "There is no way.  If a Jew marries a Canaanite slave, the child is both a slave and a mamzer.",
+        "source": "Kiddushin 3:13"
+    },
+    {"question":"Which marriages are permitted between people who are not permitted to enter the community?",
+"answer": "People who are definitely disqualified may marry others who are definitely disqualified, such as mamzers. However, someone with questionable status may not marry someone with definite status, such as a shetuki and a mamzer. Someone with questionable status may not marry someone else with questionable status. The groups with questionable status are shetukim, asufim, and Cutheans.",
+"source": "Kiddushin 4:3"},
+{"question": "Is it proper for a man to be a teacher of young children according to the prohibition of yichud?",
+"answer": "While an unmarried man should not be a teacher, even a married man should not do so if his wife is not in the building.",
+"source": "Kiddushin 4:13"},
+{"question":"What does Beit Shammai hold in the case where two surviving brothers marry two sisters who were previously married to two deceased brothers?", 
+"answer":"Beit Shammai allows them to remain married.", 
+"source": "Yevamot 3:1"},
+{"question":"", "answer":"", "source": ""}
+    
+    ]
