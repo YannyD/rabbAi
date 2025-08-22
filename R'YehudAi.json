@@ -14,18 +14,33 @@
 {"question":"What is the status of the daughter of a male convert?",
 "answer":"The daughter of a male convert is also considered a convert.",
 "source": "Kiddushin  4:6"},
+
 {"question":"Can a parent declare his child to be a mamzer?",
 "answer": "A father is believed if he says that his child is a mamzer, whether he says it alone or with his wife. However, the mother is not believed.",
 "source": "Kiddushin 4:8"},
+
 {"question":"Which professions should unmarried men avoid?",
 "answer":"An unmarried man should not shepherd animals, and two unmarried men should not sleep under one cloak.",
 "source":"Kiddushin 4:14"},
 {"question": "Which professions are good to learn, and which are bad?",
 "answer": "Most donkey drivers are wicked, but most camel drivers are upright. Most sailors are pious. Even the best doctors is in danger of going to Gehinnom. The most upright butchers are in danger of going to Gehinnom.",
 "source": "Kiddushin 4:14"},
+
 {"question":"Can a man incriminate himself with murder to be a witness that the man is dead and his widow can remarry?", 
 "answer":"If a man says he killed the woman's husband, she is not free to marry.  If the man says he was part of a group that killed him, then he is believed and the wife is free to marry others.",
 "source": "Yevamot 2:9"},
+
+{"question":"When chalitzah is performed, who gets the deceased's property?", 
+"answer":"A living father is first in line to get the the deceased's property.", 
+"source":"Yevamot 4:7"},
+{"question":"When yibum is performed, who gets the deceased's property?", 
+"answer":"A living father is first in line to get the deceased's property even when yibum is performed.", 
+"source":"Yevamot 4:7"},
+
+{"question":"What waiting period must a woman observe in order to remarry?", 
+"answer":"A woman who was previously fully married can become betrothed right away but should wait 3 months to get married. A woman who was only previousl betrothed can become married right away, except for the couple in Judea who become familiar after betrothal.", 
+"source":"Yevamot 4:10"},
+
 {"question": "Can a woman remarry or perform yibum if she is the only witness claiming that her husband died overseas?",
 "answer": "No, we never believe her about this unless she comes crying with her cloths torn and showing signs of mourning.",
 "source": "Yevamot 15:1"},

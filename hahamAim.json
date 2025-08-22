@@ -14,6 +14,14 @@
 {"question": "Can two unmarried men sleep under one cloak?",
 "answer":"Yes, two unmarried men may sleep under one cloak",
 "source":"Kiddushin 4:14"},
+
+{"question":"What is the status of a child born to a man who remarried his divorced wife after she had also been remarried, his chalutzah, or a close relative of his chalutzah?", 
+"answer":"The child is not a mamzer. This act is punishable by malkut.", 
+"source":"Yevamot 4:12"},   
+{"question":"What is the status of a child born to a man who married the close relative of his divorced wife?", 
+"answer":"The child is a mamzer. This act is punishable by karet.", 
+"source":"Yevamot 4:12"},   
+
 {"question": "Is there a difference between a deaf mute minor married off by her father and a woman who became a deaf mute after marriage?",
 "answer":"No, in both cases the original biblical marriage can be dissolved by a get.",
 "source":"Yevamot 14:2"},
