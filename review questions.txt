@@ -44,6 +44,17 @@ Chapter 4
 - Is R Yehuda the same as ben Beseira
 -  MIshna doesnt say explicitly that marrying divorced, chalutzah, or relative or chalutzah is punishable by karet according to akiva
 
+
+Chapter 5
+- {"idea": "If a man does maamar with a woman and then gives her a get, he must still perform chalitzah to free her to marry others."}
+- ^^ and her co-wives?
+-  {"idea": "If a man gives a get to his yevamah and then does maamar with her, he must free her with chalitzah and also another get.", 
+-  ^^ can he do yibum now?  I think no because of the first get. May have broken the bond and may do a prohibition
+-  The question of chalitzah/ beilah effective before/ after other acts is about torah vs rabbi.  Is the stance of tanna that rabbi is important?  Why the argument?
+
+Chapter 6
+-  Are we saying rape counts?
+
 Big Topics
 -  Yibum/ Chalitzah
 -  ervahs
