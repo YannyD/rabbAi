@@ -13,15 +13,23 @@
         "answer": "There is no way.  If a Jew marries a Canaanite slave, the child is both a slave and a mamzer.",
         "source": "Kiddushin 3:13"
     },
-    {"question":"Which marriages are permitted between people who are not permitted to enter the community?",
+{"question":"Which marriages are permitted between people who are not permitted to enter the community?",
 "answer": "People who are definitely disqualified may marry others who are definitely disqualified, such as mamzers. However, someone with questionable status may not marry someone with definite status, such as a shetuki and a mamzer. Someone with questionable status may not marry someone else with questionable status. The groups with questionable status are shetukim, asufim, and Cutheans.",
 "source": "Kiddushin 4:3"},
 {"question": "Is it proper for a man to be a teacher of young children according to the prohibition of yichud?",
 "answer": "While an unmarried man should not be a teacher, even a married man should not do so if his wife is not in the building.",
 "source": "Kiddushin 4:13"},
+
 {"question":"What does Beit Shammai hold in the case where two surviving brothers marry two sisters who were previously married to two deceased brothers?", 
 "answer":"Beit Shammai allows them to remain married.", 
 "source": "Yevamot 3:1"},
-{"question":"", "answer":"", "source": ""}
+
+{"question":"If a daughter of a Kohen who is a widow becomes betrothed to the Kohen Gadol or if she is a divorcee or chalutzah and betrothes a regular Kohen, can she still eat terumah?", 
+"answer":"Until the marriage is completed, they can eat terumah.", 
+"source": "Yevamot 6:3"},
+
+{"question":"Can the Kohen Gadol marry a bogeress?", 
+"answer":"Yes, as long as she is still a technical virgin.", 
+"source": "Yevamot 6:4"}
     
     ]
