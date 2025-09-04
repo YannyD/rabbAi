@@ -34,6 +34,29 @@
 
 {"question":"In which cases can a sterile man perform chalitzah and in which case can he not?",
 "answer": "If a man was born sterile, he can do chalitzah, because there is a way for him to be cured.  However, if he became sterile through injury, he cannot do chalitzah and his brothers do not perform it with his wife, because there is no cure.",
-"source":"Yevamot 8:4"}
-    
+"source":"Yevamot 8:4"},
+
+{"question":"Can chalitzah be performed at night?",
+"answer":"No, it cannot be performed at night, because it is the beginning of her process to collect the ketubah and all monetary hearings must start by day.",
+"source":"Yevamot 12:2"},
+{"question":"Can chalitzah be performed with the shoe on the left foot?",
+"answer":"Yes, the laws of chalitzah cannot be compared to the laws of metzorah, so the Torah means any foot.",
+"source":"Yevamot 12:2"},
+
+{"question":"If the chalitzah ceremony is done with removing the shoe and reciting the verses but not spitting, is it valid?",
+"answer":"No, spitting is an action and all parts that require action must be done. We learn this from Dueteronomy 25:9, which says `so shall be done` implying all actions are required.",
+"source":"Yevamot 12:3"},
+
+{"question":"What is the status of an underage girl married off by her mother and brothers after her father dies?",
+"answer":"She is seen as a girl having extramarital relations. If she is married off to a Kohen, she cannot eat terumah. If she was a Kohen's daughter and is married to a Yisrael, she can eat terumah.",
+"source":"Yevamot 13:2"},
+
+{"question":"If a man divorces a woman and the remarries her before she marries another man, is she eligible for yibum when he dies childless?",
+"answer":"By rabbinical decree, we forbid it both when the remarriage is biblical between adults and rabbinical with a minor girl.  This is because there exists a case where it is forbidden. This is when the minor was married off by her father, which is biblically permitted, and then divorced before remarrying as a minor. Now, the second marriage is rabbinical, while the first marriage is biblical. The yibum from rabbinical marriage does not override the prohibition of marrying the biblical husband's brother.  So we forbid all cases similar to this.",
+"source": "Yevamot 13:6"},
+
+{"question":"If two brothers are married to two sisters, but one marriage is rabbinical and the other is biblical, what are the rules of yibum when a biblical yibum bond is made upon the death of the biblical husband, leaving a yavam who is rabbinically married to his yavamah's sister?",
+"answer":"We tell his rabbinical wife to do miun, since she cannot stay married to him on account of his biblical zikuk bond with her sister.",
+"source":"Yevamot 13:7"}
+
     ]

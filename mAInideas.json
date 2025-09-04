@@ -73,10 +73,10 @@
 {"idea": "The zikuk bond is of a rabbinical nature.  It does not override biblical yibum bond.", 
 "source": "Yevamot 3:4"},
 
-{"idea":"Mamar is a rabbinical engagement between the yevam and the yevamah. ",
+{"idea":"Mamar is a rabbinical engagement between the yavam and the yevamah. ",
 "source": "Yevamot 3:5", "star": true},
 
-{"idea": "Maamar is not enough to make two women full co-wives.  If one is an ervah to the Yevam, it does not fully disqualify the other.", 
+{"idea": "Maamar is not enough to make two women full co-wives.  If one is an ervah to the yavam, it does not fully disqualify the other.", 
 "source": "Yevamot 3:6"},
 
 {"idea":"If a woman falls to a man as an ervah, she remains forbidden to him in all future instances.", 
@@ -87,7 +87,7 @@
 {"idea":"Questionable divorce comes from a get that has been written in hand by the husband but has no signed witnesses, has witnesses but no date, or has a date but only one witness.", 
 "source":"Yevamot 3:8"},
 
-{"idea": "If a woman falls to one brother as a yavamah, but she gets maamar from another brother who dies before completing yibum, she must get chalitzah from him.  One of her co-wives must also get chalitzah.  This is a rabbinical enactment, though biblically, the co-wives could do yibum.", 
+{"idea": "If a woman falls to one brother as a yevamah, but she gets maamar from another brother who dies before completing yibum, she must get chalitzah from him.  One of her co-wives must also get chalitzah.  This is a rabbinical enactment, though biblically, the co-wives could do yibum.", 
 "source": "Yevamot 3:9"},
 
 {"idea": "If men mix up their wives at the chupa and cohabit with the wrong wife, they can be liable for as many chatas offerings as prohibitions that they break.", 
@@ -98,7 +98,7 @@
 
 {"idea": "If a man performs yibum with a woman but then finds her to be pregnant with the deceased brother's child, they wait to see if birth is viable. If so, no get is necessary but are subject to chatas offering. If not, she remains his wife.", 
 "source": "Yevamot 4:2"},
-{"idea": "If a woman becomes pregnant after yibum, but they are unsure whether the child is the deceased brother's or the yevam's, she is given a get. They are subject to an asham talui offering.", 
+{"idea": "If a woman becomes pregnant after yibum, but they are unsure whether the child is the deceased brother's or the yavam's, she is given a get. They are subject to an asham talui offering.", 
 "source": "Yevamot 4:2"},
 
 {"idea": "Yibum makes a woman the full wife of her yavam in all ways except the original ketubah payment comes from the property of the original husband.", 
@@ -166,7 +166,7 @@
 {"idea": "If a get is first in any sequence, chalitzah with one co-wife is still required to free everyone.",
 "source": "Yevamot 5:4"},
 
-{"idea": "If you first perform chalitzah or your first perform cohabitation with your yevamah, nothing afterwards counts as a levirate act.",
+{"idea": "If you first perform chalitzah or you first perform cohabitation with your yevamah, nothing afterwards counts as a levirate act.",
 "source": "Yevamot 5:5"},
 {"idea": "If cohabitation is performed in the middle or end of a sequence, subsequent acts may take effect.",
 "source": "Yevamot 5:5"},
@@ -176,7 +176,7 @@
 {"idea":"Chalitzah at any point in the process conclusively erases the yibum bond, bot cohabitation that takes place after maamar or a get is flawed. Other actions have an effect after a flawed cohabitation.",
 "source":"Yevamot 5:6"},
 
-{"idea": "Any penetrative act of intercourse, whether vaginal or anal, creates a  full marriage between yevam and yevamah, regardless of anyone's intention or consent.",
+{"idea": "Any penetrative act of intercourse, whether vaginal or anal, creates a  full marriage between yavam and yevamah, regardless of anyone's intention or consent.",
 "source": "Yevamot 6:1"},
 
 {"idea":"Cohabitation with any ervah or disqualified women prevents her from being married to a kohen, regardless of intent, type of penetration, or consent.", 
@@ -225,7 +225,7 @@
 {"idea": "When a woman enters into a marriage that revokes her permisson to eat terumah, her slaves also lose that permission to eat terumah.", 
 "source": "Yevamot 7:2"},
 
-{"idea": "A fetus, a yevam, betrothal, marriage to a deaf mute, cohabitation with a 13 year old of unknown maturity, and cohabitation with a boy who is just older than nine all disqualify a daughter of a Kohen from eating terumah but do not qualify a non-Kohen from eating terumah.",
+{"idea": "A fetus, a yavam, betrothal, marriage to a deaf mute, cohabitation with a 13 year old of unknown maturity, and cohabitation with a boy who is just older than nine all disqualify a daughter of a Kohen from eating terumah but do not qualify a non-Kohen from eating terumah.",
 "source": "Yevamot 7:4"},
 {"idea": "A boy must be at least nine for his cohabitation to be legally recognized, though he cannot be married until adulthood.",
 "source": "Yevamot 7:4"},
@@ -262,14 +262,183 @@
 {"idea":"A Kohen who is sterile from birth can marry a daughter of a Yisrael and she can eat terumah.",
 "source": "Yevamot 8:6"},
 
+{"idea": "Marriages that are forbidden by not by punishment of karet are sufficient to allow for a yibum bond with any brother who is a permitted relationship for the yevamah.  In this case, yibum or chalitzah can be done.", 
+"source": "Yevamot 9:2"},
+
+{"idea": "If a woman marries one of her secondary ervahs, which were enacted rabbinically, she loses all financial protections of the ketubah. However, their children are kosher Jews and not mamzers.", 
+"source": "Yevamot 9:3"},
+{"idea": "If a woman marries someone biblically forbidden to her but not punishable by karet, such as a widow with Kohen Gadol, a kohen with a divorcee, or a mamzer with a Yisrael, she still gets her financial protections from the ketubah.", 
+"source": "Yevamot 9:3"},
+
+{"idea": "Neither a betrothal, a pregnancy, nor an awaiting yibum is sufficient on its own to change a woman's permissions for eating terumah or maaser rishon.", 
+"source": "Yevamot 9:4"},
+{"idea": "Neither a Levi marrying a Kohen, nor a Kohen marrying a Levi can collect terumah or maaser from the threshing floor while pregnant, awaiting yibum, or only betrothed.", 
+"source": "Yevamot 9:4"},
+
+{"idea": "Permissions for terumah or maaser depend on the last marriage a woman had, whether the husband is alive or if a living offspring remains.", 
+"source": "Yevamot 9:5"},
+
+{"idea":"If a woman's husband goes overseas, she can rely on the testimony of one witness who says that he is dead. However, if her original husband turns out to be alive, she recieves must divorce through a get with both and forfeits all financial protections from her ketubah. If she had children from either man after remarrying, the child is a mamzer. Neither man has rights to her work or profits, nor any other marital obligations. She is deemed a zonah and loses rights to either terumah or maaser. If the fist husband dies before giving the get, she may not do yibum with his brothers. She must do chalitzah.",
+"source":"Yevamot 10:1"},
+{"idea":"If a woman relies on the testimony of two witnesses who said her husband died overseas and remarries, before learning that her original husband returned, she is permitted to return to her first husband.",
+"source": "Yevamot 10:1"},
+
+{"idea":"If a woman remarried on the courts authority using only one witness who claimed her husband died overseas, and the husband returns alive, she is exempt from a chatat offering since she had permission of the court. However, if she marries someone to whom she is forbidden, she does make a chatat offering, since this is not what the court offered.",
+"source": "Yevamot 10:2"},
+{"idea":"If a woman relies on the testimony of two witnesses who said her husband died overseas and remarries, before learning that her original husband returned, she is obligated to bring a chatat offering.",
+"source": "Yevamot 10:2"},
+
+{"idea":"If testimony is given to a woman that her husband died without obligating her to yibum or that he died obligating her, and it is discovered that the opposite is true, then the woman must leave her new husband or the man with whom she performed yibum.  Any kids they had are mamzers.",
+"source": "Yevamot 10:3"},
+{"idea":"If a woman remarries on testimony that her husband is dead and later discovers he was alive but died after she remarried, she must leave her new husband as she would not be permitted to a man with whom she committed adultery. Any child they had before the first husband died is a mamzer.",
+"source": "Yevamot 10:3"},
+{"idea":"If a woman becomes betrothed after being told her husband died, but her husband comes back alive, she can return to her first husband. The betrothal did not take effect. She is still eligible to marry a kohen. She does not need a get.",
+"source": "Yevamot 10:3"},
+
+{"idea":"A man who marries his wife's sister after being told she died can return to his original wife if she turns out to be alive. His marriage with his sister-in-law never took effect.",
+"source": "Yevamot 10:4"},
+{"idea":"A man who marries his wife's sister after a witness told him she died, only to learn she had been alive at the time before later dying, will have a child who is a mamzer if he was concieved while his original wife is alive.  The child is not if concieved afterwards.", 
+"source": "Yevamot 10:4"},
+
+{"idea":"Cohabitation by a boy who is nine years old and one day with his yevamah is equivalent to maamer done by an adult brother.",
+"source": "Yevamot 10:6"},
+{"idea":"If a boy of nine and one day does maamar after his adult brother performed maamar, the first brother is not disqualified from performing yibum. However, if the boy of nine and one day does maamar first, it does prohibit any adult brother from perfoming yibum.",
+"souce": "Yevamot 10:6"},
+
+{"idea":"If a boy of nine years and one day cohabits with his yevamah and then another brother of the same age cohabits with her, both are disqualified. This is the same as if adult brothers had done maamar.",
+"source":"Yevamot 10:7"},
+
+{"idea":"If a boy of nine years and one day cohabits with one Yevamah and the with her cowife, he is disqualified from marrying either because both cohabitations were only partially effective, much like if he did maamar with two cowives.",
+"source":"Yevamot 10:8"},
+{"idea":"If a boy of nine years and one day cohabits with his yevamah and then dies childless, a remaining third brother must perform chalitzah, as with the case when the second brother only performed maamar.",
+"source":"Yevamot 10:8"},
+{"idea":"If a boy of nine years and one day marries a regular woman, his brothers do not have a yibum bond with her. His marriage is only permissible through yibum, not regular marriage.",
+"source":"Yevamot 10:8"},
+
+{"idea": "If a boy of nine years and one day cohabits with a yevamah but never does again before marrying another woman as an adult and then dies childless, his third brother must perform chalitzah with the first wife. Then, he can either do chalitzah or yibum with the second.",
+"source": "Yevamot 10:9"},
+{"idea":"If a boy is twenty but does not have two public hairs, he is treated the same as if he was nine years and one day.",
+"source": "Yevamot 10:9"},
+
+{"idea":"Extramarital relations do not prohibit the two individuals from marrying one another's close relatives, but extramarital relations with the close relatives of your wife or husband is prohibited.",
+"source":"Yevamot 11:1"},
+{"idea":"A man may marry a woman with whom his father or son had extramartial relations.",
+"source":"Yevamot 11:1"},
+
+{"idea":"If a woman converts to Judaism with sons, they are not considered brothers and do not perform yibum or chalitzah for one another. This is the same for a Canaanite slavewoman who is freed with her kids.",
+"source":"Yevamot 11:2"},
+
+{"idea":"A group of five boys is mixed up at birth.  Each has a certain brother. All die childless. The only way yibum can be done is if four of the certain brothers do chalitzah with the same widow and the last does yibum with her. Next, the one who did yibum along with three others does chalitzah with an unmarried widow and the remaining brother does yibum. This can be repeated until each widow has had 4 chalitzahs and one yibum.",
+"source":"Yevamot 11:3"},
+
+{"idea":"A woman and her daughter-in-law mixed up sons at birth. Each also has a certain other son. Both mixed up boys marry and die without children. The certain son of the daughter-in-law does chalitzah with both because he may accidentally marry his forbidden ant. The other son of the mother can do chalitzah with either and yibum with the other. If the certain sons die married and childless, the widow of the mother's son gets chalitzah from both and the widow of the daughter-in-law's son does chalitzah with one and can do yibum with the other.",
+"source":"Yevamot 11:4"},
+
+{"idea":"If the son of a Kohen and his slave's son get mixed up, they both take the stringency of a Kohen and the limits of a slave. They cannot marry at all. They can eat terumah, but together get one portion on the threshing floor. Both may not become tamei by a dead body.",
+"source":"Yevamot 11:5"},
+
+{"idea":"If a kohen and slave were mixed at birth, they should free each other when they become adults. Then, they must marry a woman fit for the Kehunah. They still may not become tamei by a dead body. But if they do become tamei, they are not punished with forty lashes. They may not eat terumah, but if they do, they are not penalizes for it. They can sell their terumah instead of giving it to another kohen. Similarly, they do not get sacrifices, but are not obligated to give theirs away. They let their behor animals graze until they are likely blemished, so they do not dedicate it to a kohen. They get the stringencies of a Koehn with the stringencies of a Yisrael.",
+"source":"Yevamot 11:5"},
+
+{"idea":"If a woman does not wait three months after being divorced or widowed and gives birth to a son who could be from either her dead husband or her new husband and also has certain sons from the new husbdan, yibum is not permitted. If the uncertain son dies childless, his widow gets chalitzah from certain sons of each husband. Similarly, if one of the certain sons dies childless, the uncertain son must do chalitzah.",
+"source":"Yevamot 11:6"},
+
+{"idea":"If a man is uncertain if his father is his mother's dead husband or her new one, and both men have other sons from other women, the uncertain son may perform chalitzah or yibum with the widow of either brother if he dies childless. However, if the uncertain son dies childless, one of his half brothers performs chalitzah with his widow and the other may perform yibum.",
+"source":"Yevamot 11:6"},
+
+{"idea":"If a man is uncertain if his father is his mother's dead husband or her new one, and one of them is a kohen while the other is a Yisrael, he must take the stringency of both. He must marry a woman fit for the Kehunah. He may not become tamei by contact with the dead, but is not punished with forty lashes if he does. He may not eat terumah but is not punished for it if he does mistakenly. He does not get a portion of terumah at the threshing floor, but he may sell his terumah insted of giving it away. He does not get sacrifcial portions, but we do not take his sacrifices from him. We let his behor animals graze until they have blemishes.",
+"source":"Yevamot 11:7"},
+
+{"idea": "If a man is uncertain which of two men is his father and both are Kohens, he mourns for both and does not perform in the temple on their days of death. He may not become tamei for either when they die. They do not inherit from the two father's estate, but the fathers split his estate if he dies without children. He is exempt from death penalty for hitting or cursing either. He joins the mishmar of both, but does not get a portion of offerings from either shift, unless both belong to the same mishmar shift.",
+"source":"Yevamot 11:7"},
+
+{"idea":"Three judges are required for chalitzah but they can be laymen. They must know how to read hebrew to dictate verse which must be read.",
+"source":"Yevamot 12:1"},
+{"idea":"The shoe used for chalitzah can be made of soft leather but not cloth. The rabbis dictated that soft leather is not preferable since there could be a tear. The shoe must have a heel wrapping around the back of the foot to be valid. The shoe must have straps to tie below the knee to be valid. If straps tie above the knee, it is not valid.",
+"source":"Yevamot 12:1"},
+
+{"idea":"The chalitzah is still valid if the sandal is not owned by the yavam. It is valid if it is made of wood and covered with leather. It is valid if the left shoe is placed on the right foot. It is valid if the shoe is too big or too small, as long as all toes are covered and it does not fall off while walking.",
+"source":"Yevamot 12:2"},
+{"idea":"Chalitzah is valid if performed at night.",
+"source":"Yevamot 12:2"},
+{"idea":"Chalitzah is invalid if the shoe is on the left foot.",
+"source":"Yevamot 12:2"},
+
+{"idea":"There are three parts of a chalitzah ceremony: the removal of the shoe from the yavam's foot, the spitting in front of the yavam, and the recitation of required verses.",
+"source": "Yevamot 12:3"},
+{"idea":"The recitation of the verses are not required for a valid chalitzah.",
+"source": "Yevamot 12:3"},
+{"idea":"Failing to remove the shoe invalidates the chalitzah.",
+"source": "Yevamot 12:3"},
+
+{"idea":"While the recitation of verses is not strictly required, the yavam and yevamah must have the capacity to speak those verses for it to be valid. Thus, deaf-mutes and underage boys cannot perform a valid chalitzah. If the yevamah is an underage girl during the ceremony, she must perform it again as an adult or it is invalid.",
+"source": "Yevamot 12:4"},
+
+{"idea":"if the ceremony is done in front of two judges or later it is learned that one of the judges was a relative, it is invalid.",
+"source": "Yevamot 12:5"},
+
+{"idea":"At the start of the chalitzah ceremony, the judges advise the yavam on whether to do chalitzah or Yibum. Then, the yevamah and yavam say some words in hebrew. Then, the yevamah removes the yavam's shoe and visibly spits in front of him. She then finishes by saying another verse in Hebrew.",
+"source": "Yevamot 12:6"},
+
 {"idea": "Miun is a rabbinical law.", 
 "source": "Yevamot 13:1"},
+
+{"idea": "Miun is allowable for any girl who was married off by her mother or brothers as a minor under rabbinical permission with her consent. If it was done without her consent, she does not even need miun. Her marriage is not accepted without her consent.", 
+"source": "Yevamot 13:2"},
+
+{"idea": "Marriages ending in miun are treated as if they never happened, allowing her to marry a kohen and permitting them to one another's close relatives.", 
+"source": "Yevamot 13:4"},
+{"idea": "If an underage girl who is married off with her consent by her mother and brothers is given a get, then they are treated as a regular divorced couple. They are allowed to remarry if she has not yet remarried herself. However, if this second marriage ends with miun, both are treated as if they never happened. Thus, if she married a second man to whom she was later widowed or divorced, she is allowed to return to the first husband with whom miun was done, since the first marriage is considered never ot have happened.", 
+"source": "Yevamot 13:4"},
+
+{"idea":"A woman who was divorced and the remarried her husband is eligible for yibum upon his childess death.",
+"source":"Yevamot 13:6"},
+
+{"idea":"An ervah on the rabbinic level blocks yibum on the rabbinic level.",
+"source":"Yevamot 13:7"},
+{"idea":"The marriage of a deaf mute is permitted on the rabbinical level",
+"source":"Yevamot 13:7"},
+
+{"idea":"Deaf mute rabbinical marriage are not the same as minor rabbinical marriages.",
+"source":"Yevamot 13:8"},
+{"idea":"If one co-wife has a biblical marriage and the other a rabbinical, cohabitation or chalitzah with the biblical frees the rabbinical, but not the other way around.",
+"source":"Yevamot 13:8"},
+
+{"idea":"If cohabitation or chalitzah is done with one yevamah and then another of the co-wives, the first is not disqualified if they are the same exact type of marriages.  And the second does not take effect.",
+"source":"Yevamot 13:9"},
+{"idea":"If cohabitation or chalitzah is done with an underage yevamah with a rabbinical marriage and then also with her deaf-mute co-wife, the original marriage is valid. However, if it is done with a deaf-mute and then a rabbincal minor marriage, it is disqualified.",
+"source":"Yevamot 13:9"},
+{"idea":"A rabbincal marriage with a minor is a possible complete marriage because it may become one later on.  However, a rabbinical marriage with a deaf-mute is always a partial marriage.  Thus, a deaf-mute marriage is considered in some way less than one for a minor.",
+"source":"Yevamot 13:9"},
+
+{"idea":"If a subsequent cohabitation disqualified an earlier one, the second one is also prohibited since the first one may have partially worked.",
+"source":"Yevamot 13:11"},
+
+{"idea":"Only an adult man can give a get.",
+"source":"Yevamot 13:12"},
+{"idea":"If the yavam and the yevamah are both minors and they perform yibum, they are told to grow up together and only divorce as adults if they wish.",
+"source":"Yevamot 13:12"},
+{"idea":"If a minor yavam cohabited with an adult yevamah, she must raise him to adulthood, before he is allowed to divorce her.",
+"source":"Yevamot 13:12"},
+{"idea":"If a yevamah claims before thirty days that the yavam who took her into his house for yibum has not yet cohabited with her, and he says that he did and gave her a get later to free her without chalitzah, the rabbis force him to do chalitzah.",
+"source":"Yevamot 13:12"},
+{"idea":"If a yevamah claims after thirty days that the yavam who took her into his house for yibum has not yet cohabited with her, and he says that he did and gave her a get later to free her without chalitzah, the rabbis do not force him to do chalitzah.",
+"source":"Yevamot 13:12"},
+{"idea":"If a yavam admits to not cohabiting with a yavamah who he took into his house for yibum, he is forced to do chalitzah even a year after she came into his house.",
+"source":"Yevamot 13:12"},
+
+{"idea":"If a woman made a vow that was not nullified by her husband that she will never benefit from her brother-in-law, and then she falls to him for yibum, the rabbis force him to do chalitzah with her.",
+"source":"Yevamot 13:13"},
+{"idea":"If the yavamah made this vow after her husband dies, the rabbis ask for chalitzah but do not force it. Similarly, if it is determined that the woman made this vow during her dead husband's lifetime or after in order to avoid yibum, we ask him to do chalitzah and pay the ketubah but do not force it.",
+"source":"Yevamot 13:13"},
+
 {"idea": "A deaf man can give a get.", 
 "source": "Yevamot 14:1"},
 {"idea": "A deaf mute is given rabbinical permission to marry.", 
 "source": "Yevamot 14:1"},
 {"idea": "If a man becomes deaf after marriage, he cannot give a get, but if a woman becomes deaf after marriage, she can be divorced.", 
 "source": "Yevamot 14:1"},
+
 {"idea":"If a woman is rabbinically married and her sister falls to her husband for Yibum, she is still an ervah to him. Thus, no chalitzah is necessary.",
 "source":"Yevamot 14:3"},
 {"answer":"The new marriage created by yibum carries the same status as the original marriage. If the original marriage was rabbinical, the yibum marriage is also rabbinical. Similarly, if the original marriage was biblical, the yibum marriage is also biblical.",
