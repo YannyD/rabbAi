@@ -432,26 +432,59 @@
 {"idea":"If the yavamah made this vow after her husband dies, the rabbis ask for chalitzah but do not force it. Similarly, if it is determined that the woman made this vow during her dead husband's lifetime or after in order to avoid yibum, we ask him to do chalitzah and pay the ketubah but do not force it.",
 "source":"Yevamot 13:13"},
 
-{"idea": "A deaf man can give a get.", 
+{"idea": "A deaf man can give a get for a rabbinical marriage.", 
 "source": "Yevamot 14:1"},
 {"idea": "A deaf mute is given rabbinical permission to marry.", 
 "source": "Yevamot 14:1"},
 {"idea": "If a man becomes deaf after marriage, he cannot give a get, but if a woman becomes deaf after marriage, she can be divorced.", 
 "source": "Yevamot 14:1"},
+{"idea":"Only a man must give consent for a divorce, while a woman need not give consent to be divorced.",
+"source":"Yevamot 14:1"},
+{"answer":"The woman's consent is not required for divorce. However, if the woman cannot give consent due to becoming insane, the rabbis forbid divorce.",
+"source":"Yevamot 14:1"},
 
 {"idea":"If a woman is rabbinically married and her sister falls to her husband for Yibum, she is still an ervah to him. Thus, no chalitzah is necessary.",
 "source":"Yevamot 14:3"},
 {"answer":"The new marriage created by yibum carries the same status as the original marriage. If the original marriage was rabbinical, the yibum marriage is also rabbinical. Similarly, if the original marriage was biblical, the yibum marriage is also biblical.",
 "source":"Yevamot 14:3"},
-{"answer":"The woman's consent is not required for divorce. However, if the woman cannot give consent due to becoming insane, the rabbis forbid divorce.",
-"source":"Yevamot 14:1"},
+
+
 {"idea":"If a man is married rabbinically, but the sister of his wife falls to him through biblical yibum, he must divorce his wife who is now forbidden to him as a siter of a yevamah. He cannot do yibum with the widow because she is the sister of his divorced, living wife. He should do chalitzah if he is permitted.",
 "source":"Yevamot 14:4"},
-{"idea":"A deaf mute can divorce his wife using sign language. However, he cannot divorce his wife if she fell to him through a biblical yibum.", "source": "Yevamot 14:4"},
-{"idea":"A woman is believed about any restriction she places on herself. For example, even if we do not accept her testimony to change her status from having children to be eligible for yibum on her word alone, we will ask that she does chalitza, despite not permitting her to perform yibum.","source": "Yevamot 14:4"},
+{"idea":"If a man is married biblically, but the sister of his wife falls to him through rabbinical yibum, he does nothing.  She is an ervah to him.",
+"source":"Yevamot 14:4"},
+{"idea":"A deaf mute can divorce his wife using sign language. However, he cannot divorce his wife if she fell to him through a biblical yibum.", 
+"source": "Yevamot 14:4"},
+{"idea":"A deaf mute cannot participate in chalitzah as yavam or yevamah because they cannot hear the declaration of the chalitzah.",
+"source":"Yevamot 14:4"},
+{"idea":"A deaf mute cannot divorce a woman who fell to him through biblical yibum.",
+"source":"Yevamot 14:4"},
 
-{"idea":"A deaf mute cannot participate in chalitzah because they cannot hear the declaration of the chalitzah.",
-"source":"********NEED TO BE ADDED********"}
+{"idea":"A woman is believed if she said her husband died overseas, as long as they were not fighting and there was no war. She can remarry. However, if there was conflict between them or war in their path of travel, she is not believed and cannot remmary.",
+"source":"Yevamot 15:1"},
+
+{"idea":"Anyone is permitted as a witness that a husband died overseas, except for her mother-in-law, her husband's sister, her co-wife, her husband's brother's wife, and her step-daughter.",
+"source":"Yevamot 15:4"},
+{"idea":"Even women who cannot be witnesses that the husband died overseas can be trusted to bring her a get from overseas.",
+"source":"Yevamot 15:4"},
+{"idea":"While a single witness is believed to tell a woman her husband died overseas and allow her to remarry, two witnesses are required to overturn it later on and force her to leave her new husband. While one is counted as two in this case, two is always greater than one. If two say he did die and one says not, then she can still remarry.",
+"source":"Yevamot 15:4"},
+
+{"idea":"If two co-wives disagree about whether their husband died while they were overseas, each is permitted only what she testifies to. The one who says he died can remarry and collect the ketubah. The other cannot.",
+"source":"Yevamot 15:5"},
+{"idea":"If two witnesses disgaree before a court ruling is made, the woman cannot remarry.",
+"source":"Yevamot 15:5"},
+
+{"idea":"A woman is believed if she says that her husband died overseas and then her only child. Her status does not change in this case.  However, if she says her only child died first, she is not allowed to do yibum and changer her status.",
+"source":"Yevamot 15:8"},
+{"idea":"Even though we do not accept a woman's testimony to change her status from having children to be eligible for yibum on her word alone, we will ask that she does chalitzah, despite not permitting her to perform yibum.",
+"source": "Yevamot 15:8"},
+
+{"idea":"We do not believe a woman to change her yibum eligibility status from what was known before she went overseas.",
+"souce":"Yevamot 15:9"},
+
+{"idea":"A woman is not believed to testify that her sister died so she can enter the home of her sister's husband. Similarly, a man is not believed to say his brother died so he can perform yibum."}
+
 
 
 
